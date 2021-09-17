@@ -3,10 +3,10 @@
 ## How To Install
 
 ### MacOS/Linux
-> `pip3 install treePy`
+> `pip3 install treePy`<br>
 > `import treePy as tp`
 ### Windows
-> `pip install treePy`
+> `pip install treePy`<br>
 > `import treePy as tp`
 
 ## What is TreePy
