@@ -1,6 +1,5 @@
 # ViperTree
 
-## How To Install
 ## TreePy Basics
 ```python
 import viper.tree as vp    # Imports viperTree.
@@ -15,5 +14,5 @@ node1_data = tree.get([0]) # Gets node at branch 0 from root
 
 ```
 
-## What is TreePy
-TreePy is an open source python which simplifies linked trees in python
+## What is ViperTree
+ViperTree is an open source python which simplifies linked trees in python
