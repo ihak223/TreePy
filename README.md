@@ -7,5 +7,10 @@
 ### Windows
 > Type: `pip install treePy` into CMD and press enter.<br>
 
+## TreePy Basics
+```python
+import TreePy as tp
+```
+
 ## What is TreePy
 TreePy is an open source python which simplifies linked trees in python
